@@ -105,10 +105,38 @@ console.log(dados);
 
 <br/>
 
-[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Polynorte Embalagens" src="https://scontent.fpll8-1.fna.fbcdn.net/v/t1.6435-9/183567144_408099020529135_6298535567326271692_n.jpg?stp=dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=be3454&_nc_ohc=kZy0rC0-aCEAX_9WdwP&_nc_ht=scontent.fpll8-1.fna&oh=00_AfAEHZjU4lasGR8F4LeGYA8Mw8dp7icuvTmcq0d6mIU1PQ&oe=658751B1"/>](https://www.facebook.com/Polynorte/)
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Polynorte Embalagens" src="https://github.com/juniorsimas/juniorsimas/blob/main/polynorte.png"/>](https://www.facebook.com/Polynorte/)
 
 [**Técnico de Apoio ao Usuário de Informática**](https://www.linkedin.com/in/juniorsimas26) \
 Polynorte Embalagens\
 nov de 2017 - ago de 2023 · 5 anos e 9 meses\
-Serviços: `chamados externos`, `visitas técnicas`, `reduções de custos operacionais`, `sistema de CFTV`\
+  Serviços: `chamados externos`, `visitas técnicas`, `reduções de custos operacionais`, `sistema de CFTV`
+ 
+ <br/>
+
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Apa Móveis" src="https://github.com/juniorsimas/juniorsimas/blob/main/apa-moveis.png"/>](https://www.apamoveis.com.br/)
+
+[**Web Designer**](https://www.linkedin.com/in/juniorsimas26) \
+Apa Móveis\
+mai de 2021 - set de 2017 · 8 meses\
+  Serviços: `Cadastro de produtos`, `Edição de imagens`, `Descrição de produtos`, `Redes Sociais`, `Atendimento ao cliente`
+
+<br/>
+
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="SR Saldanha Rodrigues LTDA" src="https://github.com/juniorsimas/juniorsimas/blob/main/sr-saldanha-rogrigues.png"/>](https://seringasr.com.br/)
+
+[**Assistente de Informática Pleno**](https://www.linkedin.com/in/juniorsimas26) \
+SR Saldanha Rodrigues LTDA\
+dez de 2014 - fev de 2016  · 1 ano e 2 meses\
+  Serviços: `Monitoramento de processos INJET`, `Map Cardoso`, `CLP`, `Rotina de Backup`, `Servidor AD`, `Servidor DHCP`, `Suporte Técnico a Usuário`
+  
+<br/>
+
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="SR Saldanha Rodrigues LTDA" src="https://github.com/juniorsimas/juniorsimas/blob/main/bemol.png"/>](https://www.bemol.com.br/)
+
+[**Técnico de Suporte Júnior**](https://www.linkedin.com/in/juniorsimas26) \
+Benchimol Irmão & Cia Ltda - Bemol\
+out de 2006 - fev de 2011  · 4 anos e 10 meses\
+  Serviços: `manutenção em equipamentos de informática`, `visitas técnicas em lojas`,`implantação NComputing`, `Suporte Técnico a Usuário`
+  
 <br/>
