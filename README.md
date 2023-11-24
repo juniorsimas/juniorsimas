@@ -1,16 +1,114 @@
-### Hi there 👋
+## Olá! Eu sou o Raimundo Pires de Simas Júnior, mas conhecido como Júnior Simas,
 
-<!--
-**juniorsimas/juniorsimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Técnico em Informática a 14 anos e atuo como  suporte à hardware, sistemas operacionais, aplicativos de escritório, rede e Internet, CFTV e servidores. Passei por diversas empresas.
 
-Here are some ideas to get you started:
+Busco constantemente aprendizado e desafios, e estou sempre empenhado em aprimorar meus conhecimentos. Por isso este ano, decidi fazer um upgrade na minha carreira, migrando da Infraestrutura de TI tradicional para Desenvolvimento Web. Desafiei-me a atuar com a transformação digital, que me motiva a seguir em frente, agregando valor à equipe por meio da minha experiência em Suporte Técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo ótimo senso de comprometimento e responsabilidade, de forma a entregar resultados da melhor forma possível, considerando prazos e prioridades. Gosto de trabalhar em equipe, pois entendo que o compartilhamento de experiências agrega tanto no âmbito pessoal, quanto no resultado final de um projeto.
+
+
+<div align="right">
+<br>
+
+![profile-views](https://komarev.com/ghpvc/?username=juniorsimas&color=red)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil;Sou+Desenvolvedor+Backend+Jr%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Em+busca+de+uma+oportunidade%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BC;Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93;T%C3%A9cnico+em+Inform%C3%A1tica%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%94%A7)](https://git.io/typing-svg)
+</div>
+
+# 👨🏾‍💻  Perfil
+
+<br>
+
+<div style="width:100%; position:relative;">
+  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
+</div>
+
+```js
+const desenvolvedor = {
+    nome: 'Raimundo Pires de Simas Júnior',
+    area: 'Backend',
+    profissao:'Suporte Técnico em TI',
+    idade: 38
+}
+const endereco = {
+    cidade: 'Manaus',
+    estado: 'AM'
+}
+
+const dados = {
+    ...desenvolvedor,
+    ...endereco,
+    disponivel_mercado: True
+}
+console.log(dados);
+```
+
+<br>
+
+- 👨🏾‍💻 Sou Desenvolvedor Backend Jr;
+- 👨🏾‍💼 Em busca de uma oportunidade;
+- 👨🏾‍🎓 Bacharel em Ciência da Computação;
+- 👨🏾‍🔧 Técnico em Informática;
+- 👨🏾‍🏫 Estudando para me tornar Desenvolvedor Full Stack (Frontend e Backend);
+- 👨🏾‍🚀 Apaixonado por Tecnologia, Desenvolvimento, Aprendizado Contínuo e Criatividade;
+- 🫱🏾‍🫲🏿 Disponível para o mercado de trabalho;
+- ❤️ Quando não estou programando, você pode me encontrar estudando, lendo, e passando um tempo em família.
+- 🤔 Quer me conhecer melhor? <a href="https://api.whatsapp.com/send/?phone=5592991068482&text=Ol%C3%A1%2C+vim+do+seu+Github+e+gostaria+de+contrata-lo&type=phone_number&app_absent=0">clique aqui</a>
+
+<br>
+
+# ⌨️ Linguagens
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+# 📚 Bibliotecas & Framework
+
+<br>
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+# 🛠️ Ferramentas & Plataformas
+
+<br>
+
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  
+<br>
+
+# 🔝 Linguagens mais usadas
+
+<br>
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsimas&layout=compact&langs_count=16&theme=dracula"/>
+</p>
+  
+<br>
+
+# 👨🏾‍💼 Experiência de trabalho
+
+<br/>
+
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Polynorte Embalagens" src="https://scontent.fpll8-1.fna.fbcdn.net/v/t1.6435-9/183567144_408099020529135_6298535567326271692_n.jpg?stp=dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=be3454&_nc_ohc=kZy0rC0-aCEAX_9WdwP&_nc_ht=scontent.fpll8-1.fna&oh=00_AfAEHZjU4lasGR8F4LeGYA8Mw8dp7icuvTmcq0d6mIU1PQ&oe=658751B1"/>](https://www.facebook.com/Polynorte/)
+
+[**Técnico de Apoio ao Usuário de Informática**](https://www.linkedin.com/in/juniorsimas26) \
+Polynorte Embalagens\
+nov de 2017 - ago de 2023 · 5 anos e 9 meses\
+Serviços: `chamados externos`, `visitas técnicas`, `reduções de custos operacionais`, `sistema de CFTV`\
+<br/>
