@@ -105,7 +105,7 @@ console.log(dados);
 
 <br/>
 
-[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Polynorte Embalagens" src="https://github.com/juniorsimas/juniorsimas/blob/main/polynorte.png"/>](https://www.facebook.com/Polynorte/)
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Polynorte Embalagens" src="./polynorte.png"/>](https://www.facebook.com/Polynorte/)
 
 [**Técnico de Apoio ao Usuário de Informática**](https://www.linkedin.com/in/juniorsimas26) \
 Polynorte Embalagens\
@@ -114,7 +114,7 @@ nov de 2017 - ago de 2023 · 5 anos e 9 meses\
  
  <br/>
 
-[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Apa Móveis" src="https://github.com/juniorsimas/juniorsimas/blob/main/apa-moveis.png"/>](https://www.apamoveis.com.br/)
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Apa Móveis" src="./apa-moveis.png"/>](https://www.apamoveis.com.br/)
 
 [**Web Designer**](https://www.linkedin.com/in/juniorsimas26) \
 Apa Móveis\
@@ -123,7 +123,7 @@ mai de 2021 - set de 2017 · 8 meses\
 
 <br/>
 
-[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="SR Saldanha Rodrigues LTDA" src="https://github.com/juniorsimas/juniorsimas/blob/main/sr-saldanha-rogrigues.png"/>](https://seringasr.com.br/)
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="SR Saldanha Rodrigues LTDA" src="./sr-saldanha-rogrigues.png"/>](https://seringasr.com.br/)
 
 [**Assistente de Informática Pleno**](https://www.linkedin.com/in/juniorsimas26) \
 SR Saldanha Rodrigues LTDA\
@@ -132,7 +132,7 @@ dez de 2014 - fev de 2016  · 1 ano e 2 meses\
   
 <br/>
 
-[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="SR Saldanha Rodrigues LTDA" src="https://github.com/juniorsimas/juniorsimas/blob/main/bemol.png"/>](https://www.bemol.com.br/)
+[<img style="border-radius: 50px; margin-right: 10px" align="left" height="50px" width="50px" alt="Bemol" src="./bemol.png"/>](https://www.bemol.com.br/)
 
 [**Técnico de Suporte Júnior**](https://www.linkedin.com/in/juniorsimas26) \
 Benchimol Irmão & Cia Ltda - Bemol\
@@ -140,3 +140,67 @@ out de 2006 - fev de 2011  · 4 anos e 10 meses\
   Serviços: `manutenção em equipamentos de informática`, `visitas técnicas em lojas`,`implantação NComputing`, `Suporte Técnico a Usuário`
   
 <br/>
+
+# 👨🏾‍🎓 Formação acadêmica
+
+<br>
+
+<img align="left" height="50px" width="50px" alt="Uninorte" src="./uninorte.png"/>
+
+**Ciênicia da Computação**\
+UNINORTE - Centro Universitário do Norte\
+Jan de 2015 - Dez de 2019 · 4 anos
+
+<br>
+
+<img align="left" height="50px" width="50px" alt="Fundação Desembargador Paulo Feitoza-" src="paulo-feitoza.png"/>
+
+**Programador Web Nível Básico**\
+FPF TECH - Fundação Desembargador Paulo Feitoza\
+Mar de 2004 - Out de 2004 · 7 meses
+
+<br>
+
+# ✉️ Contatos
+
+<br>
+
+Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e sugestões, me mande uma mensagem 😉
+
+[<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:juniorsimas26@gmail.com)
+
+[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juniorsimas26)
+
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/juniorsimas)
+
+[<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/juniorsimas26)
+
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/juniorsimas26)
+  
+<br><br>
+
+# 📊 Estatísticas no GitHub
+
+<br>
+
+<p align="center">
+   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=juniorsimas&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=DBDADA&background=193549&ring=C577C2&fire=75EEB2&currStreakNum=75EEB2&sideNums=75EEB2&currStreakLabel=C577C2&sideLabels=C577C2&dates=75EEB2&border=DBDADA" />
+
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=juniorsimas&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+</p>
+  
+<br>
+  
+<br>
+
+<br>
+
+<br>
+
+[<img align="right" alt="Voltar ao topo" width="80px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/juniorsimas/juniorsimas/blob/main/README.md)
+
+<br>
+ 
+ <div>
+  <img align="center" alt="Pixel-Art" width="100%" src="./programando.gif"/>
+</div>
