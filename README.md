@@ -1,11 +1,10 @@
 ## Olá! Eu sou o Raimundo Pires de Simas Júnior, mas conhecido como Júnior Simas,
 
-Sou Técnico em Informática à 14 anos e atuo como  suporte à hardware, sistemas operacionais, aplicativos de escritório, rede e Internet, CFTV e servidores.
+Sou Técnico em Informática há 14 anos e atuo como suporte de hardware, sistemas operacionais, aplicativos de escritório, rede e Internet, CFTV e servidores.
 
-Busco constantemente aprendizado e desafios, e estou sempre empenhado em aprimorar meus conhecimentos. Por isso este ano, decidi fazer um upgrade na minha carreira, migrando da Infraestrutura de TI tradicional para Desenvolvimento Web. Desafiei-me a atuar com a transformação digital, que me motiva a seguir em frente, agregando valor à equipe por meio da minha experiência em Suporte Técnico.
+Busco constantemente, aprendizado e desafios. Estou sempre empenhado em aprimorar meus conhecimentos. Por isso, este ano, decidi fazer um upgrade na minha carreira, migrando da Infraestrutura de TI tradicional para Desenvolvimento Web. Desafiei-me a atuar com a transformação digital, que me motiva a seguir em frente, agregando valor à equipe, por meio da minha experiência em Suporte Técnico.
 
-Possuo ótimo senso de comprometimento e responsabilidade, de forma a entregar resultados da melhor forma possível, considerando prazos e prioridades. Gosto de trabalhar em equipe, pois entendo que o compartilhamento de experiências agrega tanto no âmbito pessoal, quanto no resultado final de um projeto.
-
+Possuo ótimo senso de comprometimento e responsabilidade, de forma a entregar resultados da melhor forma possível, considerando prazos e prioridades. Gosto de trabalhar em equipe, pois entendo que o compartilhamento de experiências, agrega tanto no âmbito pessoal, quanto no resultado de um projeto.
 
 <div align="right">
 <br>
