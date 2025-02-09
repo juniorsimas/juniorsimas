@@ -28,24 +28,21 @@ Sou um profissional proativo, com forte senso de responsabilidade e paixão por 
   <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 </div>
 
-```js
-const desenvolvedor = {
-    nome: 'Raimundo Pires de Simas Júnior',
-    area: 'Backend',
-    profissao:'Suporte Técnico em TI',
-    idade: 38
+```py
+desenvolvedor = {
+    'nome': 'Raimundo Pires de Simas Júnior',
+    'area': 'Automação',
+    'profissao': 'Analista de Suporte em TI',
+    'idade': 38
 }
-const endereco = {
-    cidade: 'Manaus',
-    estado: 'AM'
+endereco = {
+    'cidade': 'Manaus',
+    'estado': 'AM'
 }
 
-const dados = {
-    ...desenvolvedor,
-    ...endereco,
-    disponivel_mercado: True
-}
-console.log(dados);
+dados = {**desenvolvedor, **endereco, 'disponivel_mercado': True}
+
+print(dados)
 ```
 
 <br>
