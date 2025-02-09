@@ -1,4 +1,6 @@
-## Olá! Sou o Júnior Simas, Analista de Suporte com 16 anos de experiência em infraestrutura de TI. Atualmente, estou em uma jornada de transição para o desenvolvimento web e análise de dados, impulsionado pela paixão em transformar dados em insights e criar soluções inovadoras.
+## Olá! Eu sou o Raimundo Pires de Simas Júnior, mas conhecido como Júnior Simas,
+
+Analista de Suporte com 16 anos de experiência em infraestrutura de TI. Atualmente, estou em uma jornada de transição para o desenvolvimento web e análise de dados, impulsionado pela paixão em transformar dados em insights e criar soluções inovadoras.
 
 Com sólida experiência em suporte técnico, sistemas operacionais, redes e servidores, adquiri habilidades essenciais para garantir a qualidade e a eficiência das aplicações. Estou aprofundando meus conhecimentos em Python, utilizando bibliotecas como Pandas e NumPy para manipular e analisar dados, e desenvolvendo projetos de automação para otimizar processos.
 
