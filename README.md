@@ -1,10 +1,10 @@
-## Olá! Eu sou o Raimundo Pires de Simas Júnior, mas conhecido como Júnior Simas,
+## Olá! Sou o Júnior Simas, Analista de Suporte com 16 anos de experiência em infraestrutura de TI. Atualmente, estou em uma jornada de transição para o desenvolvimento web e análise de dados, impulsionado pela paixão em transformar dados em insights e criar soluções inovadoras.
 
-Sou Técnico em Informática há 14 anos e atuo como suporte de hardware, sistemas operacionais, aplicativos de escritório, rede e Internet, CFTV e servidores.
+Com sólida experiência em suporte técnico, sistemas operacionais, redes e servidores, adquiri habilidades essenciais para garantir a qualidade e a eficiência das aplicações. Estou aprofundando meus conhecimentos em Python, utilizando bibliotecas como Pandas e NumPy para manipular e analisar dados, e desenvolvendo projetos de automação para otimizar processos.
 
-Busco constantemente, aprendizado e desafios. Estou sempre empenhado em aprimorar meus conhecimentos. Por isso, este ano, decidi fazer um upgrade na minha carreira, migrando da Infraestrutura de TI tradicional para Desenvolvimento Web. Desafiei-me a atuar com a transformação digital, que me motiva a seguir em frente, agregando valor à equipe, por meio da minha experiência em Suporte Técnico.
+Meu objetivo é contribuir para o desenvolvimento de soluções web robustas e escaláveis, utilizando frameworks como Django e Flask. Acredito que a combinação da minha experiência em infraestrutura com as novas habilidades em desenvolvimento e análise de dados me permitirá agregar valor significativo aos projetos, desde a concepção até a implementação.
 
-Possuo ótimo senso de comprometimento e responsabilidade, de forma a entregar resultados da melhor forma possível, considerando prazos e prioridades. Gosto de trabalhar em equipe, pois entendo que o compartilhamento de experiências, agrega tanto no âmbito pessoal, quanto no resultado de um projeto.
+Sou um profissional proativo, com forte senso de responsabilidade e paixão por aprender. Busco constantemente novos desafios e oportunidades para aplicar meus conhecimentos e contribuir para o sucesso da equipe
 
 <div align="right">
 <br>
@@ -168,7 +168,7 @@ Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e suge
 
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:juniorsimas26@gmail.com)
 
-[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juniorsimas26)
+[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juniorsimas-analista/)
 
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/juniorsimas)
 
